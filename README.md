@@ -1,4 +1,4 @@
-### Hi there, you can call me Zack. Nice to meet ya! 👋
+### Hi there, you can call me Jek. Nice to meet ya! 👋
 ## About me
 
 An informatics undergraduate student with passion in data :bar_chart:. I also work on web development projects in my free time.
