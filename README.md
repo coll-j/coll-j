@@ -12,7 +12,7 @@ Here are some of my other hobbies and interests:
 * :musical_note: Music
 * :hammer: Woodworking
 
-I'd really love to talk about them :smiley:
+I really love to talk about them :smiley:
 
 ## GitHub Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coll-j&langs_count=8&layout=compact&theme=great-gatsby)
